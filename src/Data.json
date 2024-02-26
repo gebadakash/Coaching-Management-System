@@ -1,0 +1,45 @@
+[
+
+    {
+        "id":1,
+        "title":"Web Development",
+        "image":"img/webDevelopment.jpg",
+        "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam."
+        
+    },
+    {
+        "id":2,
+        "title":"App Development",
+        "image":"img/AppDevelopment.jpg",
+        "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam."
+        
+    },
+    {
+        "id":3,
+        "title":"Software Development",
+        "image":"img/SoftwareDevelopment.jpg",
+        "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam."
+        
+    },
+    {
+        "id":4,
+        "title":"Java Development",
+        "image":"img/Java.jpg",
+        "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam."
+        
+    },
+    {
+        "id":5,
+        "title":"Python Development",
+        "image":"img/Python.jpg",
+        "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam."
+        
+    },
+    {
+        "id":1,
+        "title":"Angular Development",
+        "image":"img/Angular.jpg",
+        "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam."
+        
+    }
+]
