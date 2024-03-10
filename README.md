@@ -45,7 +45,7 @@ Technologies Used
 <li>Java Spring Boot</li>
 <li>JSP (JavaServer Pages)</li>
 <li>REST API</li>
-
+<br>
 2.Frontend:
 <li>HTML</li>
 <li>CSS</li>
@@ -57,7 +57,7 @@ Technologies Used
 Installation
 
 1.Clone the Repository:
-git clone https://github.com/your_username/student-management-system.git
+git clone https://github.com/gebadakash/Coaching-Management-System/tree/main
 
 2.Backend Setup:
 <li>Import the backend project into your preferred Java IDE.</li>
